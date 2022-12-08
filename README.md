@@ -9,7 +9,7 @@ Ce repository a pour objet la présentation du test technique pour un poste de l
 
 Le test sera  de créer une application qui permet aux utilisateurs d'entrer des valeurs pour les paramètres d'une fonction sigmoïde logistique et de visualiser la courbe résultante sur un graphique.
 L'application doit inclure des champs de saisie pour les paramètres de la fonction sigmoïde (cf schéma) 
-L'application doit être construite en utilisant **React** et doit inclure les composants, la gestion d'état et le style nécessaires pour créer une interface conviviale et visuellement agréable. 
+L'application doit être construite en utilisant **React** et doit inclure les composants, la gestion d'état et le styles nécessaires pour créer une interface conviviale et visuellement agréable. 
 
 L'application sera poussée sur un repo github ( privé ou public selon votre convenance)
 
