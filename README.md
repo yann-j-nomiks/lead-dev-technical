@@ -53,5 +53,5 @@ Ps : la prestation graphique n'est pas évaluée.
 
 ## Disclaimer
 
-L'application produite lors de cette application est votre propriété , et ne sera pas utilisée par Nomiks sans un accord explicite préalable.
+L'application produite lors de cet exercice est votre propriété, et ne sera pas utilisée par Nomiks sans un accord explicite préalable.
 
