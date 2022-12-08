@@ -48,6 +48,13 @@ L'évaluation se passera sour la forme d'une revue de code ou seront  discutée
 Ps : la prestation graphique n'est pas évaluée.
 
 
+## Contexte d'utilisation (chez Nomiks) 
+
+Cet outil  est utilisé  : 
+- pour générer des input destress test en terme d'adoption
+exemple :  si on veux simuler l'effet du stacking sur une  pool de reward , un possiblité pour gérer le nombres de stacker est d'utiliser une fonction sigmoid.  
+- Ceci  peut être aussi être utilisé pour créer un calendirer d'émission pour la supply de token.
+
 ## ressources 
 [lien wikipédia vers la fonction utilisée](https://en.wikipedia.org/wiki/Logistic_function)
 
