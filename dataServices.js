@@ -34,7 +34,6 @@ class DataServices {
         series.forEach((x) => {
             sigmoidSeries.push({x, value: sigmoid(x - start)});
         });
-        console.log(sigmoidSeries)
         return sigmoidSeries;
     }
 
