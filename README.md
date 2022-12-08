@@ -51,7 +51,7 @@ Ps : la prestation graphique n'est pas évaluée.
 ## Contexte d'utilisation (chez Nomiks) 
 
 Cet outil  est utilisé  : 
-- pour générer des input destress test en terme d'adoption
+- pour générer des input de stress test en terme d'adoption
 exemple :  si on veux simuler l'effet du stacking sur une  pool de reward , un possiblité pour générer le nombres de stacker en fonction du temps est d'utiliser une fonction sigmoid.  
 - Ceci  peut être aussi être utilisé pour créer un calendirer d'émission pour la supply de token.
 
