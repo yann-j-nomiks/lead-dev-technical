@@ -6,7 +6,7 @@ Lead dev technical test
 
 ## Ennoncé
 
-Le test sera  de créer une application à page unique qui permet aux utilisateurs d'entrer des valeurs pour les paramètres d'une fonction sigmoïde et de visualiser la courbe résultante sur un graphique.
+Le test sera  de créer une application qui permet aux utilisateurs d'entrer des valeurs pour les paramètres d'une fonction sigmoïde et de visualiser la courbe résultante sur un graphique.
 L'application doit inclure des champs de saisie pour les paramètres de la fonction sigmoïde (cf schéma) 
 L'application doit être construite en utilisant **React** et doit inclure les composants, la gestion d'état et le style nécessaires pour créer une interface conviviale et visuellement agréable. 
 
