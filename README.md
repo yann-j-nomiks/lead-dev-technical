@@ -31,7 +31,7 @@ Le but n'étant pas de réaliser ou de passer trop de temps sur les fonctions ma
 
 ps : Elle est parfaitement modifiable dans le cadre de votre application. 
 
-## Choix des bibliothèque et des composants 
+## Choix des bibliothèques et des composants 
 
 Pas de directives particulières ici , les choix à faire dans le cadre d'un exercice comme celui-ci doivent être pragamtiques, on évoquera lors de la revue les modifications à apporter aux choix techniques si cette interface devait être le module d'une plus grosse application.
 
