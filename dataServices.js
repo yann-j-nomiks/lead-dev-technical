@@ -10,7 +10,6 @@ class DataServices {
         for (i = start; i <= end; i += step)
             series.push(i);
 
-        console.log(i,end)
         if (i !== end + step )
             series.push(end);
 
