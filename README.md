@@ -25,7 +25,7 @@ Un niveau de perte de finesse dans la calibration de la courbe est acceptable (v
 
 ## Elements fournis
 
-Le but n'étant pas de réaliser ou de passer trop de temps sur les fonctions mathématique ( qui sont plutôt bien docuementées aujourd'hui ) , la classe permettant de gérer la serie de point en fonction des paramètres définis est fournie ici.
+Le but n'étant pas de réaliser ou de passer trop de temps sur les fonctions mathématique ( qui sont plutôt bien docuementées aujourd'hui ) , la classe permettant de gérer la serie de points en fonction des paramètres définis est fournie ici.
 
 [https://github.com/yann-j-nomiks/lead-dev-technical/blob/main/dataServices.js](https://github.com/yann-j-nomiks/lead-dev-technical/blob/main/dataServices.js)
 
@@ -33,13 +33,13 @@ ps : Elle est parfaitement modifiable dans le cadre de votre application.
 
 ## Choix des bibliothèque et des composants 
 
-Pas de directives particulière ici , les choix à faire dans le cadre d'un exercice comme celui-ci doivent être pragamtiques, on évoquera lors de la revue les modifications à apporter aux choix techniques si cet interface devait être le module d'une plus grosse application.
+Pas de directives particulières ici , les choix à faire dans le cadre d'un exercice comme celui-ci doivent être pragamtiques, on évoquera lors de la revue les modifications à apporter aux choix techniques si cette interface devait être le module d'une plus grosse application.
 
 
 ## Evaluation 
 
 L'évaluation se passera sour la forme d'une revue de code ou seront  discutée
-- La justification sur le choix des librairies ( 
+- La justification sur le choix des librairies 
 - La segmentation des composants 
 - Les choix UX 
 - La qualité de code en général
@@ -49,7 +49,7 @@ Ps : la prestation graphique n'est pas évaluée.
 
 
 ## ressources 
-[https://en.wikipedia.org/wiki/Logistic_function](lien wikipédia vers la fonction utilisée)
+[lien wikipédia vers la fonction utilisée](https://en.wikipedia.org/wiki/Logistic_function)
 
 ## Disclaimer
 
