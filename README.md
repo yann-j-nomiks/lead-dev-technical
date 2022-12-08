@@ -12,15 +12,26 @@ L'application doit être construite en utilisant **React** et doit inclure les c
 
 L'application sera poussée sur un repo github ( privé ou public selon votre convenance)
 
+Un petit schéma ( sans UX de l'attendu ) 
+![alt text](https://github.com/yann-j-nomiks/lead-dev-technical/blob/main/React%20App.png?raw=true)
+
 
 ## UX
 
 Le travail est ici principalement d'évaluer la capacité à rendre des paramètres peu intuitifs , compréhensible et manipalable par quelqu'un qui n'a pas  de connaissances mathématiques spécifiques. les champs de saisies  peuvent ête transformés/ scindés  / regroupés / simplifiés   par des listes de choix.
 Un  niveau de perte  de finesse dans la calibration  de la courbe est tout acceptable et indispensable pour rendre l'interface conviviale. 
 
+## Elements fournis
+
+le but n'atant pas de réaliser ou de passer trop de temps sur les fonctions mathématique ( qui sont plutôt bien docuementée aujourd'hui ) , la classe permettant de gérer la serie de point en fonction de paramètre est fournie ici , elle est parfaitement modifiable dans le cadre de votre application. 
+
+[https://github.com/yann-j-nomiks/lead-dev-technical/blob/main/dataServices.js](https://github.com/yann-j-nomiks/lead-dev-technical/blob/main/dataServices.js)
+
 ## Choix des bibliothèque et des composants 
 
 Pas de directives particulière ici , les choix à faire dans le cadre d'un exercice comme celui-ci doivent être pragamtique, on évoquera lors de la revue les modifications à apporter aux choix techniques si cee élément était le  module d'une plus grosse application.
+
+
 
 
 ## Evaluation 
